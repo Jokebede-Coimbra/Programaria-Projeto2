@@ -1,5 +1,4 @@
 # Programaria-Projeto Final
-## Criação de uma SPA com tema livre
 
 > Status: ✔️
 
